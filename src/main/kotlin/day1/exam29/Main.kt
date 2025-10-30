@@ -6,6 +6,6 @@ val lazyValue: String by lazy {
 }
 
 fun main() {
-    println(lazyValue)
+    println(lazyValue) //
     println(lazyValue)
 }
