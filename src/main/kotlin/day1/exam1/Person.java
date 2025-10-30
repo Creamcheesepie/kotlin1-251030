@@ -1,3 +1,5 @@
+package day1.exam1;
+
 public class Person {
     int age;
     String name;
